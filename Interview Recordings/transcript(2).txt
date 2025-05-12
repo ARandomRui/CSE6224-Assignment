@@ -1,0 +1,49 @@
+Teh Li Wei (Interviewer): So I'm Li Wei and I'm currently working on a software requirements project. So the title is about a ride sharing and parking system. The goal of this interview is to gather your thoughts on how the system should work and what details matter to you as a user. So can you introduce yourself before we start the interview?
+
+Interviewee: My name is Ng Zai Kit and I'm a student of MMU.
+
+Teh Li Wei (Interviewer): Okay, so there's the question. You are the riders (role of this system), because you don't have car right?
+
+Interviewee: Yes.
+
+Teh Li Wei (Interviewer): Okay, so first question. When requesting a ride, what details do you expect to see before confirming?
+
+Interviewee: I think I will need to know the picture of the drivers and how many seats they have and did they have any other customer. The most important is the price.
+
+Teh Li Wei (Interviewer): Ah, the price. Would you feel comfortable getting into a car with someone you don't know if they are verified by the university system?
+
+Interviewee: It's okay for me because I think it is verified by the university and I think it will be safe.
+
+Teh Li Wei (Interviewer): Alright, so would you like the system to allow recurring ride bookings?
+
+Interviewee: Yeah, because it's more convenient for us to booking a car like one day before and you don't have to book at the...time so rush.
+
+Teh Li Wei (Interviewer): So when booking a ride, would you prefer to choose the driver manually or let the system automatically match one for you based on location and destination and why?
+
+Interviewee: Yeah it have to be automatically because like, if I choose it (manually), it waste my time and lot of thing to do if automatically can do all the things for me, is will be the best.
+
+Teh Li Wei (Interviewer): Alright. So if you could rate the review each ride experience, would you actually use the feature? 
+
+Interviewee: Not for writing but I will give the starring rating.
+
+Teh Li Wei (Interviewer): Okay. So would you use a feature where your friends can see your live location during the ride?
+
+Interviewee: Yeah, I think it's okay for me because if my friend can see my location I think it's more safety if I have anything happen my friend can know in the first time (instanly).
+
+Teh Li Wei (Interviewer): Alright so the continual question is about the parking system. So what do you expect when viewing the parking availability like real time count and map location?
+
+Interviewee: Yeah it's a great feature because it's more convenient for other people to finding parking if there are no parking in that spot, so the person don't have to find it so hard.
+
+Teh Li Wei (Interviewer): Okay, does it help if the app could suggest the best parking lot based on your destination?
+
+Interviewee: Yeah. If the features is like this, it is a good features because now I don't see any apps got this kind of features. So I think it's a good try. 
+
+Teh Li Wei (Interviewer): Would you prefer to view claim parking spots along with the name or plate number of the person who claimed it? Why or why not?
+
+Interviewee: I wouldn't recommend this because it's some privacy issues. For me, I think we just need to know about the plate number is okay. If we know about the person name or other details, I think it's not very good like this.
+
+Teh Li Wei (Interviewer): If there was a report illegitimate parking feature with photo upload, would you use it? Why or why not?
+
+Interviewee: Yes, I will use it because for me, I really hate other people parking illegally and I think this is a better way to let other people know about the properly parking is very important.
+
+Teh Li Wei (Interviewer): Okay, thank you for the interview.
