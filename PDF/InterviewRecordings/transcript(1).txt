@@ -1,0 +1,51 @@
+Teh Li wei (Interviewer): Okay, I'm Li Wei and I'm currently working on a software requirements project. So the title is about a ride sharing and parking system. The goal of this interview is to gather your thoughts on how the system should work and what details matter to you as a user. So can you introduce yourself before we start the interview? 
+
+Interviewee: Sure. My name is Sow Chien Yee and I am a student in MMU. I usually drive to school when i have class.
+
+Teh Li wei (Interviewer): Alright. So our question is, what information do you think must be required when offering a ride?
+
+Interviewee: I think the information that must be required is about the time to depart from the location and the destination of the location.
+
+Teh Li wei (Interviewer): Alright, so would you feel safe letting someone you don't know to join your car if they are a verified student? And tell me why or why not?
+
+Interviewee: Actually, I don't really feel safe if I'm a male stranger because I usually drive alone and then I usually prefer my rider is girl.
+
+Teh Li Wei (Interviewer): Even iff he is verified user?
+
+Interviewee: Yeah.
+
+Teh Li Wei (Interviewer): So would you prefer to manually approve a rider or let the system match you automatically and tell me why?
+
+Interviewee: I will prefer to manually approve them because I think this is more convenient and also efficient.
+
+Teh Li Wei (Interviewer): Alright, so what kind of filters would be helpful when matching with a rider like gender, faculty, race?
+
+Interviewee: I think gender and faculty because like I mentioned just now, if female is, I can feel more safety because usually girls with girls are more comfortable.
+
+Teh Li Wei (Interviewer): So if the system could show you your estimated fuel safe or carbon footprint reduction, so would that motivate you to offer more rides?
+
+Interviewee: Yes, that will motivate me.
+
+Teh Li Wei (Interviewer): So if you could earn a small profit, or rewards like fuel compensation or redeemable points for the campus perks for each ride you offer, would that make you more motivated to use the platform?
+
+Interviewee: Yeah for sure, that will motivate me too.
+
+Teh Li Wei (Interviewer): Okay, so the continue questions are about the parking system to see the empty parking slot. So what do you expect when viewing the parking availability like real-time count and location?
+
+Interviewee: I will expect them to have real-time count. Because sometimes this can let us know on the next second if the parking spot got empty spaces
+
+Teh Li Wei (Interviewer): OK. So would it help if the app could suggest the best parking lot based on your destination?
+
+Interwiewee: Yes it will help.
+
+Teh Li Wei (Interviewer): Alright, so would you prefer to view claim parking spot along with the name or plate number of the person who claimed it? Why or why not?
+
+Interviewee: I would prefer to view parking spot along with the name and plate number because sometimes if anything happen we can contact them immediately.
+
+Teh Li Wei (Interviewer): Alright, so if there was a report illegitimate parking feature with the photo upload. Would you use it? Why or why not?
+
+Interviewee: Yes, definitely I will use it because we can report any illegal parking. Because this illegal parking is a very common issue. It's a very big issue nowadays. So I think the feature with photo uploads is very helpful to make sure that this report is real.
+
+Teh Li Wei (Interviewer): Okay, alright. Thank you for the interview.
+
+Interviewee: Thank you.

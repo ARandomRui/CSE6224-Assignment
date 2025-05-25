@@ -1,32 +1,31 @@
-# CSE6224-Assignment
+# CSE6224 – Assignment Repository
 
-Hi I havent really format this, remember to format before handing up
+Welcome to the project repository for **TT2L Group A**. Below is an overview of the included documents with brief descriptions.
 
+---
 
-README.md
-> You are here! <
+## Project Documents
 
-TT2L_GA_TeamFormation.docx
-Write about who are the group members, roles and what they do
+### `TT2L_GA_TeamFormation.docx`
+Details the **group members**, their **assigned roles**, and a short summary of their **responsibilities** throughout the project.
 
-TT2L_GA_ProjectVision.docx
-Write project vision, target audience, scope, purpose, all those introductory stuff..
+### `TT2L_GA_ProjectVision.docx`
+Outlines the **project vision**, **target audience**, **scope**, **purpose**, and other introductory information to define the direction and goals of the system.
 
-TT2L_GA_ContextObjects.docx
-Context objects 
-2.1 System Environment Overview	5
-2.2 Stakeholder Identification	5
-2.3 Context Diagram	6
-2.4 Sources of Requirements	6
-What was did in Elicitation 2 but move here
+### `TT2L_GA_ContextObjects.docx`
+Describes the **contextual objects** relevant to the system, including entities, actors, and their relationships with the environment.
 
-TT2L_GA_ElicitationPlan.docx
--> Start without introduction
-Straight to elicitation? why choose these what are results, and proof
+### `TT2L_GA_ElicitationPlan.docx`
+Provides a **plan for requirements elicitation**, including techniques, stakeholders involved, and how the team will gather and validate system requirements.
 
-TT2L_GA_KanoModel.docx
-???
+### `TT2L_GA_KanoModel.docx`
+Contains a **Kano model analysis** used to categorize system features based on user satisfaction – such as basic needs, performance needs, and delighters.
 
-TT2L_GA_SRS.docx
-???
+### `TT2L_GA_SRS.docx`
+The **Software Requirements Specification** document. It defines functional and non-functional requirements, system features, and constraints in detail.
 
+### `PDF`
+Holds the **PDF version** of each docx/word file.
+
+### `Google Form Responses` and `InterviewRecordings`
+Holds the excel for the **questionnaire results** and transcript and recording for **interviews** respectively.
